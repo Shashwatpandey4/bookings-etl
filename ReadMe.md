@@ -17,7 +17,7 @@ Follow these instructions to set up and run the ETL script and tests on your loc
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/hotel-booking-etl.git
+   git clone https://github.com/Shashwatpandey4/bookings-etl.git
    ```
 
 2. Navigate to the project directory:
